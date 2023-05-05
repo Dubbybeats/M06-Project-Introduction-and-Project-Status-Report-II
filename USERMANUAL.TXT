@@ -1,0 +1,33 @@
+#############################################################################################################################
+Introduction 📖
+Angel's Calculator is a simple GUI-based calculator application created using Python and the Tkinter library. The calculator provides essential arithmetic functions, such as addition, subtraction, multiplication, and division. It also features an Info window that provides information about the application.
+
+System Requirements 💻
+To use Angel's Calculator, you must have Python 3.x installed on your system, along with the Tkinter library (which should be included in Python by default).
+
+Running Angel's Calculator 🚀
+To run the application, simply execute the Python script using a Python interpreter or an integrated development environment (IDE) that supports Python.
+
+Using Angel's Calculator 🧮
+Upon launching Angel's Calculator, you will see a window with a numerical pad and buttons for arithmetic operations. To use the calculator:
+
+a. Input numbers: Click on the numerical buttons (0-9) to enter a number into the calculator.
+
+b. Perform arithmetic operations: Click on one of the operation buttons (+, -, *, /) to perform the corresponding operation on the entered number.
+
+c. Calculate the result: Click on the "=" button to calculate and display the result of the operation.
+
+d. Clear the input: Click on the "C" button to clear the input field and start a new calculation.
+
+Accessing the Info Window ℹ️
+To access the Info window, click on the "Info" button located below the numerical pad and operation buttons. The Info window provides information about the application, such as the project name and creator.
+
+Exiting Angel's Calculator ❌
+To close the application, simply close the main calculator window by clicking on the "X" button in the top-right corner of the window.
+
+Troubleshooting 🔧
+If you encounter any issues while using Angel's Calculator, please ensure that you are running the application with a compatible Python interpreter (version 3.x) and have the Tkinter library installed. If the problem persists, please contact the creator or refer to the source code for further information.
+
+Credits 🎓
+Angel's Calculator was created by Angel Yi as a final project SDEV140.
+#############################################################################################################################

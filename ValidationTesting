@@ -1,0 +1,38 @@
+
+Test Data:
+
+Addition:
+a. 5 + 3
+b. 0 + 5
+c. 3.5 + 2.5
+Subtraction:
+a. 9 - 4
+b. 0 - 5
+c. 7.5 - 2.5
+Multiplication:
+a. 6 * 3
+b. 0 * 5
+c. 2.5 * 4
+Division:
+a. 8 / 2
+b. 0 / 5
+c. 6 / 1.5
+Multiple operations:
+a. 2 + 3 * 4
+b. 6 / 3 - 1
+Clear functionality:
+a. 2 + 3, then clear and perform 4 * 5
+Invalid input (e.g., multiple decimal points):
+a. 2.5.4
+Edge cases:
+a. Division by zero: 5 / 0
+Results:
+
+After running the tests using the given test data, the following results were observed:
+
+All basic arithmetic operations (addition, subtraction, multiplication, and division) worked correctly.
+The calculator handled multiple operations correctly, performing the operations in the correct order.
+The clear button worked as expected, allowing users to reset the input and start a new calculation.
+Invalid input (e.g., multiple decimal points) was not tested, and the calculator might not handle it properly. This should be addressed in future updates.
+The division by zero edge case was not handled, and the calculator might not provide an appropriate error message for this situation. This should also be addressed in future updates.
+Based on the test results, the calculator performs basic arithmetic operations correctly and offers clear and reset functionality. However, there are areas that need improvement, such as handling invalid input and division by zero edge cases. These issues should be addressed in future updates to enhance the calculator's reliability and user experience.
